@@ -1,4 +1,4 @@
-#Binary Classification of Footwear
+# Binary Classification of Footwear
 Cross-validation pipeline to train and test Neural Networks and SVMs.
 
 The code shows a k-fold cross validation implemantation to train different ML models.
